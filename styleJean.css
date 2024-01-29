@@ -9,9 +9,8 @@ p{
 }
 img{
     border-radius: 30px;
-    justify-content: center;
 }
-ul{
+ol{
     background-color: beige;
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
